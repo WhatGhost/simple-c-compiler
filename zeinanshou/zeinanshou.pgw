@@ -1,0 +1,20 @@
+[Application]
+WindowPlacement=2 3 -32000 -32000 -1 -1 144 28 1296 621
+[Editor1]
+FileName=.\myparser.y
+ReadOnly=0
+WindowPlacement1=0 1 -1 -1 -8 -31 40 111 1338 605
+WindowOrder1=1
+Position001=0 301
+Cursor001=34 294 43 294
+SyntaxColouring=2
+TargetSyntaxColouring=3
+[Editor2]
+FileName=.\mylexer.l
+ReadOnly=0
+WindowPlacement1=0 1 -1 -1 -1 -1 204 127 1502 621
+WindowOrder1=2
+Position001=0 83
+Cursor001=18 95 18 95
+SyntaxColouring=1
+TargetSyntaxColouring=3
